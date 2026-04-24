@@ -25,6 +25,8 @@ Built a predictive model to estimate waiting time using Random Forest algorithms
 # Tech Stack:
 Python, Pandas, Scikit-learn
 
+![Train Model](/assets/img/train-model.png
+
 # Data Analysis & Dashboard
 Description:
 Performed data analysis and presented insights through an interactive dashboard.
