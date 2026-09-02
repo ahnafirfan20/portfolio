@@ -3,31 +3,38 @@
 </p>
 
 ## Bachelor's Degree in Computer Science - Pamulang University
-## Data Analyst | Data Science Enthusiast
+## Data Analyst | Performance | CRM Analytics
 
-I have a strong interest in Data Science and Machine Learning, focusing on data analysis, predictive modeling, and transforming data into actionable insights.
+I am a Computer Science graduate with a strong interest in **Data Analytics, CRM Analytics, and Business Intelligence**.
+I focus on transforming raw and messy data into meaningful insights that can support business decision-making.
 
 ### Skills & Tools
 - Programming: Python, SQL
-- Data Analysis: Pandas, NumPy
+- Data Analysis: Pandas, NumPy, Excel, Google Sheets
+- Database: SQL Server, MySQL, PostgreSQL
+- Data Visualization: Looker Studio, Power BI, Matplotlib, Seaborn
 - Machine Learning: Scikit-learn (Naive Bayes, Random Forest)
-- Data Visualization: Matplotlib, Seaborn, Power BI
-- Tools: Jupyter Lab, RapidMiner, GitHub
+- Tools: Jupyter Lab, VS Code, GitHub
 
 ### Projects
-Queue Waiting Time Prediction (Machine Learning)
+CRM Customer Analytics
+
 Description:
-Built a predictive model to estimate waiting time using Random Forest algorithms.
+Performed end-to-end customer analytics to analyze **customer acquisition, customer value, revenue, and retention performance**.
 
 ### Features:
-- Input: number of customers in queue, number of barbers, service duration, service type
-- Output: predicted waiting time
-- Model evaluation and accuracy testing
+- Data quality assessment and validation
+- Data cleaning and transformation
+- Customer acquisition analysis
+- Customer and revenue analysis
+- Churn and retention analysis
+- Business insights and recommendations
+- Interactive executive dashboard
 
 ### Tech Stack:
-Python, Pandas, Scikit-learn
+SQL Server, Excel, Google Sheets, Looker Studio
 
-![TrainModel](assets/img/train-model.png)
+![CRM Dashboard](assets/img/CRM_Customer_Acquisition,_Value_&_Retention_Analytics.jpg)
 
 ### Data Analysis & Dashboard
 Description:
@@ -36,15 +43,7 @@ Performed data analysis and presented insights through an interactive dashboard.
 ## Features:
 - Data cleaning & preprocessing
 - Trend analysis and visualization
-- Dashboard built using Power BI
-
-### Data Classification System
-Description:
-Implemented models to categorize data based on specific features.
-
-### Algorithms:
-- Naive Bayes
-- Random Forest
+- Dashboard built using Looker Studio
 
 ### Currently Learning
 - Deep Learning
