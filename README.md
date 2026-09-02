@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/DS.png" width="150" style="border-radius:50%;" />
+  <img src="assets/img/Fhoto_me.jpeg" width="150" style="border-radius:50%;" />
 </p>
 
 ## Bachelor's Degree in Computer Science - Pamulang University
