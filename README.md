@@ -64,8 +64,8 @@ SQL Server, Python, Excel, Google Sheets, Looker Studio
 - AI Automation
 
 ### Contact
-📧 Email: ahnafirfanbarianto@gmail.com
-🌐 GitHub: https://github.com/ahnafirfan20
+- 📧 Email: ahnafirfanbarianto@gmail.com
+- 🌐 GitHub: https://github.com/ahnafirfan20
 
 ### Career Goals
 To become a professional Data Analyst / Data Scientist who can deliver impactful, data-driven insights for business decision-making.
