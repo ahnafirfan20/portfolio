@@ -20,39 +20,52 @@ I focus on transforming raw and messy data into meaningful insights that can sup
 CRM Customer Analytics
 
 Description:
-Performed end-to-end customer analytics to analyze **customer acquisition, customer value, revenue, and retention performance**.
-
-### Features:
-- Data quality assessment and validation
-- Data cleaning and transformation
-- Customer acquisition analysis
-- Customer and revenue analysis
-- Churn and retention analysis
-- Business insights and recommendations
-- Interactive executive dashboard
-
-### Tech Stack:
-SQL Server, Excel, Google Sheets, Looker Studio
+Built an end-to-end CRM analytics project to analyze **customer acquisition, customer value, revenue, and customer retention** using 15,000 customer records.
 
 ![CRM Dashboard](assets/img/CRM_Customer_Acquisition,_Value_&_Retention_Analytics.jpg)
 
-### Data Analysis & Dashboard
-Description:
-Performed data analysis and presented insights through an interactive dashboard.
+### Business Questions:
+- Which acquisition channels bring the most customers?
+- Which acquisition channels generate the highest customer value?
+- How is the customer base distributed between Premium and Non-Premium users?
+- Which subscription types have higher churn rates?
+- How does customer satisfaction relate to churn?
+- Which cities generate the highest revenue?
+- Which payment methods contribute the most revenue?
 
-## Features:
-- Data cleaning & preprocessing
-- Trend analysis and visualization
-- Dashboard built using Looker Studio
+### Analysis:
+- Data quality assessment and validation
+- Data cleaning and transformation
+- Customer acquisition analysis
+- Revenue and customer value analysis
+- Customer segmentation
+- Churn and retention analysis
+- Business insight generation
+- Business recommendations
+
+### Dashboard:
+- Customer Acquisition & Growth
+- Premium vs Non-Premium Customers
+- Customer Value by Acquisition Channel
+- Churn Rate by Subscription Type
+- Churn Rate by Satisfaction Level
+- Top 5 Cities by Revenue
+- Revenue by Payment Method
+
+### Tech Stack:
+SQL Server, Python, Excel, Google Sheets, Looker Studio
 
 ### Currently Learning
-- Deep Learning
+- Advanced SQL
+- CRM & Customer Analytics
+- Business Intelligence
 - Data Engineering
 - Advanced Machine Learning
+- AI Automation
 
 ### Contact
 📧 Email: ahnafirfanbarianto@gmail.com
 🌐 GitHub: https://github.com/ahnafirfan20
 
 ### Career Goals
-To become a professional Data Scientist / Data Analyst who can deliver impactful, data-driven insights for business decision-making.
+To become a professional Data Analyst / Data Scientist who can deliver impactful, data-driven insights for business decision-making.
